@@ -1,16 +1,44 @@
-## Hi there 👋
+# 🎬 FERMOVIE
 
-<!--
-**Eclipsefilmes/Eclipsefilmes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+FERMOVIE é um site de streaming de filmes desenvolvido em **HTML, CSS e JavaScript**, com foco em **layout mobile bonito**, navegação simples e player integrado.
 
-Here are some ideas to get you started:
+O projeto consome dados de uma planilha online (SheetDB) e utiliza a API do **TMDB** para buscar pôsteres, banners (backdrop) e descrições automaticamente.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Funcionalidades
+
+- 📊 Filmes carregados via **SheetDB**
+- 🎥 Busca automática de:
+  - Poster
+  - Backdrop (banner)
+  - Descrição
+- ▶ Player integrado:
+  - Suporte a **MP4**
+  - Suporte a **M3U8**
+- 📱 Layout otimizado para **dispositivos móveis**
+- 🏷️ Categorias:
+  - Populares
+  - Dublados
+- 🌟 Sistema de banner para filmes selecionados
+- 🔙 Botão voltar do celular retorna para a Home
+- 🔒 Compatível com HTTPS
+- 📦 Projeto em **arquivo único (HTML)**
+
+---
+
+## 🧠 Tecnologias Utilizadas
+
+- **HTML5**
+- **CSS3**
+- **JavaScript (Vanilla)**
+- **SheetDB API**
+- **TMDB API**
+
+---
+
+## 📂 Estrutura do Projeto
+
+```bash
+📁 fermovie
+ └── index.html
