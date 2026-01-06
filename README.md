@@ -1,4 +1,4 @@
-# 🎬 FERMOVIE
+🎬 FERMOVIE
 
 FERMOVIE é um site de streaming de filmes desenvolvido em **HTML, CSS e JavaScript**, com foco em **layout mobile bonito**, navegação simples e player integrado.
 
